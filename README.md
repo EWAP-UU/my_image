@@ -1,1 +1,2 @@
-<h1>Welcome to My GitHub Pages</h1>
+<h1>img</h1>
+<img src="img/WechatIMG47.jpg" alt="My Image" width="500">
